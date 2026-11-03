@@ -1,0 +1,19 @@
+XOAIBABY – gói cài dạng web app (PWA)
+
+Nội dung:
+- index.html: ứng dụng quản lý mã hàng và đơn hàng
+- manifest.webmanifest: cấu hình biểu tượng/cài màn hình chính
+- sw.js: lưu bộ khung ứng dụng để mở lại khi offline
+- icon-192.png, icon-512.png: biểu tượng app
+
+Cách cài trên iPhone:
+1. Đưa toàn bộ các file trong thư mục này lên một website HTTPS (ví dụ GitHub Pages miễn phí).
+2. Mở đường dẫn HTTPS đó bằng Safari trên iPhone.
+3. Chạm nút Chia sẻ → chọn "Thêm vào MH chính" (Add to Home Screen) → Thêm.
+4. Mở XOAIBABY từ biểu tượng vừa tạo. Mở app ít nhất một lần khi có mạng để tải bộ khung offline.
+
+Lưu ý dữ liệu:
+- Dữ liệu đơn hàng/sản phẩm được lưu cục bộ trong trình duyệt trên iPhone.
+- Không tự đồng bộ qua máy khác; không xóa dữ liệu Safari/website khi chưa sao lưu.
+- Dùng mục Sao lưu trong app thường xuyên để tải file JSON và cất ở nơi an toàn.
+- Đây là bản web app, không phải ứng dụng App Store.

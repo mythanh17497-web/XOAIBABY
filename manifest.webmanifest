@@ -1,0 +1,26 @@
+{
+  "name": "XOAIBABY – Quản lý sản phẩm & đơn hàng",
+  "short_name": "XOAIBABY",
+  "description": "Quản lý mã hàng, hình ảnh, size, đơn hàng và doanh thu offline.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffafb",
+  "theme_color": "#f7e9e9",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
